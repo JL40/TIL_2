@@ -29,15 +29,16 @@
       - 슬래쉬 이외에도 /* */ 으로도 나타낼 수 있다
 
       예) 
-      ``` /* 
-          원하는 만큼
-          고양이를 그려보세요!
-          */
+      ```javascript
+       /* 
+       원하는 만큼
+       고양이를 그려보세요!
+       */
       ```
 
    연습: 고양이 얼굴을 그려보기
 
-```
+```javascript
 // 원하는 만큼 고양이를 그려보세요!
 var drawCats = function (howManyTimes) {
 	for (var i = 0; i < howManyTimes; i++) {
