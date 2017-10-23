@@ -6,7 +6,7 @@ var colors = colist[Math.floor(Math.random() * 4)];
 var animals = anilist[Math.floor(Math.random() * 4)];
 var names = namelist[Math.floor(Math.random() * 4)];
 
-var indion = colors + " " + animals + " " + names + "!!";
+var indian = colors + " " + animals + " " + names + "!!";
 console.log(indion);
 
 
